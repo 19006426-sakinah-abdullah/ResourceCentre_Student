@@ -13,7 +13,7 @@ public class Chromebook extends Item{
 	public String toString(){
 		String output = "";
 		// Write your codes here
-		output += "Asset tag : " + super.getAssetTag() + ", Description : " + super.getDescription() + 
+		output += "Asset ta : " + super.getAssetTag() + ", Description : " + super.getDescription() + 
 				", Optical Zoom : " + os ;
 		return output;
 	}
