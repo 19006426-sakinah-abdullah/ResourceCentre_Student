@@ -115,7 +115,7 @@ public class ResourceCentre {
 		String avail;
 
 		if (isAvailable == true) {
-			avail = "Yes";
+			avail = "Ye";
 		} else {
 			avail = "No";
 		}
